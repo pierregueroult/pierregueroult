@@ -11,9 +11,7 @@
 
 ## 📊 GitHub Data:
 ![](https://github-readme-stats.vercel.app/api?username=pierregueroult&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pierregueroult&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pierregueroult&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=pierregueroult&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pierregueroult) 
