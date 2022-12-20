@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Me, myself and I:
 🥳 Student at Rouen University, in Multimedia and Internet professions ( MMI ).<br><br>🫡 Currently looking for new and original collaborations and projects.<br><br>😶‍🌫️ On my way to become Web developer ( JavaScript > All ).<br><br>🌌 Star Wars fan before all.
 
 
