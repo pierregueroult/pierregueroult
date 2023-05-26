@@ -13,15 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=pierregueroult&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pierregueroult&theme=nightowl&hide_border=true) 
 <br />
-<div style="width:100%; display: flex; align-items: center; justify-content: center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pierregueroult&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
- </div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pierregueroult&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pierregueroult) 
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Thank you so muck GPRM !!! -->
