@@ -12,7 +12,10 @@
 ## 📊 GitHub Data:
 ![](https://github-readme-stats.vercel.app/api?username=pierregueroult&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pierregueroult&theme=nightowl&hide_border=true) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pierregueroult&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<br />
+<div style="width:100%; display: flex; align-items: center; justify-content: center">
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pierregueroult&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+ </div>
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pierregueroult) 
