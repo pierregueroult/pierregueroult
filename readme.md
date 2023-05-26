@@ -11,7 +11,7 @@
 
 ## 📊 GitHub Data:
 ![](https://github-readme-stats.vercel.app/api?username=pierregueroult&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pierregueroult&theme=nightowl&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pierregueroult&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=pierregueroult&theme=nightowl&hide_border=true) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pierregueroult&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 💰 You can help me by Donating
