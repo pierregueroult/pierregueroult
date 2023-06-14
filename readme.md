@@ -20,9 +20,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📊 GitHub Data:
-![](https://github-readme-stats.vercel.app/api?username=pierregueroult&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pierregueroult&theme=nightowl&hide_border=true) 
-<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pierregueroult&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 💰 You can help me by Donating
