@@ -16,8 +16,7 @@
     <td>
         <a href="https://visitcount.itsvg.in">
             <img src="https://visitcount.itsvg.in/api?id=pierregueroult&icon=3&color=1" alt="Totale visit count"/>
-        </a>
-        <a href="https://wakatime.com/@bdcc35b9-9386-4a24-ad9a-2f24e7198286">
+        </a><a href="https://wakatime.com/@bdcc35b9-9386-4a24-ad9a-2f24e7198286">
             <img src="https://wakatime.com/badge/user/bdcc35b9-9386-4a24-ad9a-2f24e7198286.svg" alt="Total time coded since Apr 23 2024" />
         </a>
     </td>    
