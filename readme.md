@@ -15,7 +15,8 @@
 <tr>
     <td>
        <img src="https://wakatime.com/badge/user/bdcc35b9-9386-4a24-ad9a-2f24e7198286.svg" alt="Total time coded since Apr 23 2024" />
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/pierregueroult?style=flat">
+       <img alt="GitHub followers" src="https://img.shields.io/github/followers/pierregueroult?style=flat&label=github%20followers">
+       <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/pierregueroult?style=flat&label=github%20stars">
     </td>    
 </tr>
 </table>
