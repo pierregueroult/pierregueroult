@@ -17,8 +17,8 @@
        <img src="https://wakatime.com/badge/user/bdcc35b9-9386-4a24-ad9a-2f24e7198286.svg" alt="Total time coded since Apr 23 2024" />
        <img alt="GitHub followers" src="https://img.shields.io/github/followers/pierregueroult?style=flat&label=github%20followers">
        <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/pierregueroult?style=flat&label=github%20stars">
-      <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fpierregueroult.tech&style=flat&label=pierregueroult.tech">
-      <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fpierregueroult.dev&style=flat&label=pierregueroult.dev">
+       <img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
+       <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fpierregueroult.dev&style=flat&label=pierregueroult.dev">
     </td>    
 </tr>
 </table>
