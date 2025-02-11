@@ -6,8 +6,9 @@
   <samp>
      20-year-old <strong> web developer</strong> & CS student. I love crafting sleek websites and automating workflows to make life easier. Passionate about clean code, problem-solving, and making tech work smarter, not harder.  Always exploring new technologies, always up for a challenge. Whether it's web development, automation, or something completely out of my comfort zone—I'm in.
 	  <br/>
+	  ‎ 
   </samp>
-	
+
 </p>
 </td>
 </tr>
