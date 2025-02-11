@@ -1,0 +1,75 @@
+{
+  "remote.SSH.remotePlatform": {
+    "8.8.8.8": "i wont leak any adresses here"
+  },
+  "explorer.sortOrder": "type",
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": true,
+    "scminput": false,
+    "sql": false
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.confirmSync": false,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorTheme": "Jetbrains Fleet",
+  "explorer.confirmDragAndDrop": false,
+  "editor.minimap.enabled": false,
+  "workbench.navigationControl.enabled": false,
+  "vs-kubernetes": {
+    "vscode-kubernetes.helm-path-mac": "/Users/pierregueroult/.vs-kubernetes/tools/helm/darwin-arm64/helm",
+    "vscode-kubernetes.minikube-path-mac": "/Users/pierregueroult/.vs-kubernetes/tools/minikube/darwin-arm64/minikube"
+  },
+  "redhat.telemetry.enabled": false,
+  "sonarlint.focusOnNewCode": false,
+  "dbcode.connections": [],
+  "sonarlint.connectedMode.connections.sonarqube": [
+    {
+      "serverUrl": "https://sonar.pierregueroult.dev",
+      "connectionId": "https-sonar-pierregueroult-dev"
+    }
+  ],
+  "window.customTitleBarVisibility": "windowed",
+  "workbench.startupEditor": "none",
+  "terminal.integrated.env.osx": {},
+  "console-ninja.featureSet": "Community",
+  "cSpell.userWords": [
+    "cmdk",
+    "drei",
+    "GLTF",
+    "gsap",
+    "Guéroult",
+    "lerp",
+    "perlin",
+    "Skybox",
+    "wdth",
+    "webvital",
+    "webvitals",
+    "wght",
+    "wireframes"
+  ],
+  "workbench.activityBar.location": "top",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.layoutControl.enabled": false,
+  "typescript.inlayHints.parameterNames.enabled": "all",
+  "typescript.inlayHints.variableTypes.enabled": true,
+  "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "typescript.inlayHints.parameterTypes.enabled": true,
+  "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "terminal.integrated.env.windows": {},
+  "chat.commandCenter.enabled": false,
+  "window.commandCenter": false,
+  "terminal.integrated.env.linux": {},
+  "i18n-ally.displayLanguage": "en"
+}
