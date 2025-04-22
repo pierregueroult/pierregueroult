@@ -18,6 +18,7 @@
     </td>
     <td align="center">
     	<a href="https://www.npmjs.com/package/next-launch" style="display: inline-block; text-decoration: none;"><img alt="NPM Downloads" src="https://img.shields.io/npm/dy/next-launch?label=next-launch"></a>
+	    <a href="https://www.npmjs.com/package/@pglabs/next-prisma" style="display: inline-block; text-decoration: none;"><img alt="NPM Downloads" src="https://img.shields.io/npm/dy/@pglabs/next-prisma?label=next-prisma"></a>
     	<a href="https://selenite.live" style="display: inline-block;text-decoration: none;"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fselenite.live&label=selenite.live"></a>
     	<a href="https://pierregueroult.dev" style="display: inline-block;text-decoration: none;"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fpierregueroult.dev&label=pierregueroult.dev"></a>
     </td>
