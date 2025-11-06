@@ -4,7 +4,9 @@
       <p align="center">
         <br/>
         <samp>
-           <strong>Available for an apprenticeship – September 2025 💼</strong>
+           <strong>I found my apprenticeship at 
+           <a href="https://www.altelis.com/" target="_blank">Altelis</a> on <a href="https://www.livie.info/" target="_blank">Livie</a> !
+           </strong>
         </samp>
         <br/><br/>
       </p>
@@ -15,7 +17,7 @@
       <p align="center">
         <br/>
         <samp>
-          21-year-old <strong>web developer</strong> & CS student. I love crafting sleek websites and automating workflows to make life easier. Passionate about clean code, problem-solving, and making tech work smarter, not harder. Always exploring new technologies, always up for a challenge. Whether it's web development, automation, or something completely out of my comfort zone—I'm in.
+          21-year-old <strong>web developer</strong> & CS student. I love crafting sleek websites and automating workflows to make life easier. Passionate about clean code, problem-solving, and making tech work smarter, not harder. Always exploring new technologies, always up for a challenge. Whether it's web development, automation, or something completely out of my comfort zone : I'm in.
         </samp>
         <br/><br/>
       </p>
